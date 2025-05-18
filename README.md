@@ -221,22 +221,3 @@ The application uses a PostgreSQL database with the following main entities:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
-![1](https://github.com/user-attachments/assets/31dca28c-ce08-4db3-9d04-5aea09222551)
-
-![8](https://github.com/user-attachments/assets/e8003520-88fd-4c04-9671-26c70c115121)
-
-![2](https://github.com/user-attachments/assets/f736d8f7-e557-4c87-8917-2487d9d6d9bd)
-
-![3](https://github.com/user-attachments/assets/29e9ace0-6cde-472c-aed2-73d693c0bef1)
-
-
-![6](https://github.com/user-attachments/assets/72213d8e-cab1-4771-801d-c9c052453a4c)
-
-
-![4](https://github.com/user-attachments/assets/cd84a09b-f1b4-4d2f-aeef-cc11062177c6)
-
-
-![WhatsApp Image 2025-05-18 at 12 04 50_3062d011](https://github.com/user-attachments/assets/a6b9e6e9-d18b-48bb-a9e8-73218d540346)
-
-
-![9](https://github.com/user-attachments/assets/8b8a3d48-f64a-4f62-a440-41f97ba63675)
