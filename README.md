@@ -121,15 +121,6 @@ The Digital Course Registration Portal is a comprehensive platform that allows s
 - **Context API**: For state management
 - **Fetch API**: For making HTTP requests to the backend
 
-### User Interface Design
-
-- **Responsive Layout**: The application is fully responsive and works on desktop, tablet, and mobile devices
-- **Intuitive Navigation**: Clear navigation structure with a consistent navbar and sidebar
-- **Card-Based Design**: Course information is presented in easy-to-scan cards
-- **Form Validation**: Interactive form validation with clear error messages
-- **Toast Notifications**: Non-intrusive notifications for user actions
-- **Modal Dialogs**: Clean modal dialogs for login, registration, and form inputs
-
 ## Database Schema
 
 The application uses a PostgreSQL database with the following main entities:
@@ -189,60 +180,6 @@ The application uses a PostgreSQL database with the following main entities:
 - View all enrollments
 - Manage user accounts
 
-## Application Screenshots
-
-> **Note:** To properly display these screenshots in your GitHub repository, please follow these steps:
-> 1. Create a `screenshots` directory in your repository root
-> 2. Rename your screenshots as indicated below and place them in the `screenshots` directory
-> 3. Commit and push the changes to your repository
-
-### Landing Page
-![Landing Page](screenshots/landing-page.jpg)
-*The landing page provides an overview of the application and options to log in or register.*
-
-### Login Page
-![Login Page](screenshots/login-page.jpg)
-*Secure login interface for students and administrators.*
-
-### Registration Page
-![Registration Page](screenshots/registration-page.jpg)
-*New users can create an account with their details.*
-
-### Dashboard
-![Dashboard](screenshots/dashboard.jpg)
-*The dashboard provides a quick overview of enrolled courses and available actions.*
-
-### Course Listing
-![Course Listing](screenshots/course-listing.jpg)
-*Browse and filter available courses by department.*
-
-### Course Details
-![Course Details](screenshots/course-details.jpg)
-*Detailed view of a course with enrollment options.*
-
-### Admin Panel
-![Admin Panel](screenshots/admin-panel.jpg)
-*Administrative interface for managing courses and users.*
-
-### Profile Management
-![Profile Management](screenshots/profile.jpg)
-*Users can view and update their profile information.*
-
-### Screenshot Mapping Guide
-
-Use this guide to rename your screenshots:
-
-| Original Filename | New Filename for Repository |
-|-------------------|----------------------------|
-| 1.jpg | landing-page.jpg |
-| 2.jpg | login-page.jpg |
-| 3.jpg | registration-page.jpg |
-| 4.jpg | dashboard.jpg |
-| 5.jpg | course-listing.jpg |
-| 6.jpg | course-details.jpg |
-| 8.jpg | admin-panel.jpg |
-| WhatsApp Image 2025-05-18 at 12.04.50_3062d0011.jpg | profile.jpg |
-
 ## Challenges Faced
 
 ### Backend Challenges
@@ -263,43 +200,6 @@ Use this guide to rename your screenshots:
 
 4. **API Integration**: Ensuring proper communication between frontend and backend, especially with JWT authentication, required careful implementation.
 
-## Deployment Options
-
-### Backend Deployment
-
-The Spring Boot backend can be deployed using various methods:
-
-1. **Traditional Server Deployment**:
-   - Package the application as a JAR file using `mvn package`
-   - Deploy the JAR file to a server with Java installed
-   - Run with `java -jar your-application.jar`
-
-2. **Docker Deployment**:
-   - Create a Dockerfile in the project root
-   - Build a Docker image with `docker build -t course-portal-backend .`
-   - Run with `docker run -p 8080:8080 course-portal-backend`
-
-3. **Cloud Deployment**:
-   - Deploy to AWS Elastic Beanstalk
-   - Deploy to Azure App Service
-   - Deploy to Google Cloud Run
-
-### Frontend Deployment
-
-The React frontend can be deployed using:
-
-1. **Static Hosting**:
-   - Build the production version with `npm run build`
-   - Deploy the contents of the `build` directory to:
-     - GitHub Pages
-     - Netlify
-     - Vercel
-     - AWS S3 + CloudFront
-
-2. **Docker Deployment**:
-   - Create a Dockerfile using Nginx to serve the static files
-   - Build and deploy alongside the backend
-
 ## Future Improvements
 
 1. **Enhanced Search**: Implement more advanced search and filtering options for courses.
@@ -312,10 +212,6 @@ The React frontend can be deployed using:
 
 5. **Course Waitlist**: Implement a waitlist feature for courses that reach capacity.
 
-6. **Email Notifications**: Send email confirmations for enrollments and important updates.
-
-7. **Dark Mode**: Implement a dark mode option for the user interface.
-
 ## Contributors
 
 - [Arnab]
@@ -323,3 +219,24 @@ The React frontend can be deployed using:
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+![1](https://github.com/user-attachments/assets/31dca28c-ce08-4db3-9d04-5aea09222551)
+
+![8](https://github.com/user-attachments/assets/e8003520-88fd-4c04-9671-26c70c115121)
+
+![2](https://github.com/user-attachments/assets/f736d8f7-e557-4c87-8917-2487d9d6d9bd)
+
+![3](https://github.com/user-attachments/assets/29e9ace0-6cde-472c-aed2-73d693c0bef1)
+
+
+![6](https://github.com/user-attachments/assets/72213d8e-cab1-4771-801d-c9c052453a4c)
+
+
+![4](https://github.com/user-attachments/assets/cd84a09b-f1b4-4d2f-aeef-cc11062177c6)
+
+
+![WhatsApp Image 2025-05-18 at 12 04 50_3062d011](https://github.com/user-attachments/assets/a6b9e6e9-d18b-48bb-a9e8-73218d540346)
+
+
+![9](https://github.com/user-attachments/assets/8b8a3d48-f64a-4f62-a440-41f97ba63675)
