@@ -231,6 +231,9 @@ The application uses a PostgreSQL database with the following main entities:
 ![Screenshot 2025-06-02 105729](https://github.com/user-attachments/assets/29221474-3ba7-4542-9ac8-592be326954e)
 
 
+![Screenshot 2025-06-02 105809](https://github.com/user-attachments/assets/07da6920-932c-4a79-8e84-bd3c87ef93ca)
+
+
 
 
 
