@@ -234,11 +234,6 @@ The application uses a PostgreSQL database with the following main entities:
 
 
 
-![Screenshot 2025-06-02 105809](https://github.com/user-attachments/assets/14b7adcc-68c7-47b3-9113-359c17d2dc63)
-
-
-
-
 
 # Course Enrollment
 
