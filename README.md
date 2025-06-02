@@ -217,22 +217,37 @@ The application uses a PostgreSQL database with the following main entities:
 ![Screenshot 2025-06-02 105623](https://github.com/user-attachments/assets/ad257551-ecff-4fd3-9cf8-9661da0c9e33)
 
 
-# Login page
 
+
+
+# Login page
 ![Screenshot 2025-06-02 105649](https://github.com/user-attachments/assets/9284fd46-e165-4002-bfb8-1d92486e2b49)
+
+
+
+
 
 # Course Catalog
 ![Screenshot 2025-06-02 105729](https://github.com/user-attachments/assets/29221474-3ba7-4542-9ac8-592be326954e)
 
 
+
+
+
 ![Screenshot 2025-06-02 105809](https://github.com/user-attachments/assets/14b7adcc-68c7-47b3-9113-359c17d2dc63)
+
+
+
+
 
 # Course Enrollment
 
 ![Screenshot 2025-06-02 105943](https://github.com/user-attachments/assets/eada86ac-0a90-40da-b154-2619cb418d38)
 
 
-#Course Portal Dashboard
+
+
+# Course Portal Dashboard
 ![Screenshot 2025-06-02 110011](https://github.com/user-attachments/assets/ffa7f08c-0292-43aa-bfd0-7daaa51c70b4)
 
 
